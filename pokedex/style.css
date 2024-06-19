@@ -1,0 +1,31 @@
+.container{
+    border: 2px solid black;
+    width: 500px;
+    height: auto;
+    padding: 50px;
+    background-color: rgb(214, 156, 230);
+}
+.btn{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+img{
+    translate: 150px;
+    padding: 10px;
+    background-color: rgb(122, 173, 188);
+}
+.box{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.h1{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+.parent{
+    display: flex;
+    justify-content: center
+}
